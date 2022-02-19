@@ -1,0 +1,4 @@
+.idea/
+venv/*
+env.py
+check_product.py
