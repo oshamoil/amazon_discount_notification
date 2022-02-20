@@ -1,4 +1,4 @@
-#HOW TO:
+# HOW TO:
 
 1. Create a new virtual environment and source it.
 2. Create an env.py file and populate it with the following:
